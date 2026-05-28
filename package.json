@@ -1,0 +1,27 @@
+{
+  "name": "first-nodejs-server-mamedesantana",
+  "version": "1.0.0",
+  "description": "**Objective:** Build and run your first Node.js HTTP server to gain hands-on experience with server-side development.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cornerstone-CICCC/first-nodejs-server-mamedesantana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Cornerstone-CICCC/first-nodejs-server-mamedesantana/issues"
+  },
+  "homepage": "https://github.com/Cornerstone-CICCC/first-nodejs-server-mamedesantana#readme",
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "typescript": "^6.0.3"
+  }
+}
